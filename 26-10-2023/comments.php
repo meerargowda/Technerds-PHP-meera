@@ -9,4 +9,6 @@ print"$s<br>";
 print("$s<br>");
 print"comment in php"."<br>".$a;
 echo("the value is".$a."and name is".$s);
+print"string type"."<br>".$a;
+echo"string type"."<br>".$a;
 ?>
